@@ -1,0 +1,42 @@
+body{margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: hsl(226, 35%, 10%);
+
+}
+
+h1, h2, h3{color: #F7005D;}
+p{text-align: justify;
+color:#E5E5E5}
+
+.ondulatoria{
+    width: 35%;
+
+    margin-left: 33%;
+    border: solid 4px #F7005D;
+}
+
+.cabeçalho{
+    position: relative;
+    width: 100%;
+    margin-top: -8%;
+    margin-right: 30%;
+padding-bottom: 1%;
+}
+
+.menu{
+    border: solid 2px #F7005D;
+    border-radius: 20px;
+    padding: 1%;
+    
+
+}
+
+.ond{
+padding: 5%;
+color: #E5E5E5;
+text-decoration: none;
+
+}
